@@ -1,0 +1,3 @@
+﻿  c.cpp
+J:\L4S1\Digital Image Processing\Contrast Streching Final\Project2\c.cpp(29,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project2.vcxproj -> J:\L4S1\Digital Image Processing\Contrast Streching Final\x64\Debug\Project2.exe

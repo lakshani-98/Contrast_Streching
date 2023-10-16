@@ -1,0 +1,4 @@
+﻿  c.cpp
+J:\L4S1\Digital Image Processing\Project2\Project2\c.cpp(22,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+J:\L4S1\Digital Image Processing\Project2\Project2\c.cpp(88,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project2.vcxproj -> J:\L4S1\Digital Image Processing\Project2\x64\Debug\Project2.exe
