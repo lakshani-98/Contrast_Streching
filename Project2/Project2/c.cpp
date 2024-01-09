@@ -63,9 +63,6 @@ int main(int argc, char* argv[])
 
 	}
 
-
-
-
 	//create an image to display the histogram
 	int hist_w = 512;
 	int hist_h = 400;
