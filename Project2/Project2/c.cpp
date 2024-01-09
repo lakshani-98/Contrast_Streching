@@ -107,6 +107,4 @@ int main(int argc, char* argv[])
 	waitKey(0);
 	return 0;
 
-	//project2 dog.jpeg
-
 }
